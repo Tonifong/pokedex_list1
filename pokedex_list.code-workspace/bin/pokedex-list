@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require'./lib/pokedex_list'
+
+
+PokedexList::CLI.new.call
